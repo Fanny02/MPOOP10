@@ -10,7 +10,8 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author X512J
+ * @author Estefnay Zavala 
+ * @version 1.2 28.06.2021
  */
 public class Cajero {
     public static void main(String[] args) {  //psvm + tab

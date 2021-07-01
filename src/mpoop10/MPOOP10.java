@@ -7,7 +7,8 @@ package mpoop10;
 
 /**
  *
- * @author X512J
+ * @author Estefany Zavala 
+ * @version 1.2 28.06.2021
  */
 public class MPOOP10 {
 

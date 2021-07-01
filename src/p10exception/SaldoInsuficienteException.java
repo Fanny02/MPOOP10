@@ -7,7 +7,8 @@ package p10exception;
 
 /**
  *
- * @author X512J
+ * @author Esetefany Zavala
+ * @version 1.2 28.06.2021
  */
 public class SaldoInsuficienteException extends Exception{ //creando protocolo de contingencia
 
